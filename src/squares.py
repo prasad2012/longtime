@@ -3,7 +3,10 @@ def my_square(x):
 	by using **
 	"""
 	return(x ** 2)
-def my_square2(y)
+def my_square2(y):
+	"""takes a value and returns the square of it 
+	by using **
+	"""
 	return(y ** 2)
 
 print(my_square(5))
